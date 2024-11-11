@@ -1,0 +1,18 @@
+Last login: Mon Nov 11 22:03:53 2024 from 172.20.20.1
+
+
+MTL-CORE-02>
+MTL-CORE-02>terminal width 511
+Width set to 511 columns.
+MTL-CORE-02>terminal length 0
+Pagination disabled.
+MTL-CORE-02>
+MTL-CORE-02>
+MTL-CORE-02>show ip int brief
+                                                                              Address
+Interface         IP Address           Status       Protocol           MTU    Owner  
+----------------- -------------------- ------------ -------------- ---------- -------
+Management0       172.20.20.3/24       up           up                1500           
+
+MTL-CORE-02>
+MTL-CORE-02>exit

@@ -1,0 +1,13 @@
+{
+    "device-type": "arista_eos",
+    "core-routers": {
+        "MTL-CORE-01": "172.20.20.2",
+        "MTL-CORE-02": "172.20.20.3",
+        "SF-CORE-01": "172.20.20.7",
+        "SF-CORE-02": "172.20.20.6",
+        "LDN-CORE-01": "172.20.20.4",
+        "LDN-CORE-02": "172.20.20.5"
+    },
+    "username": "admin",
+    "password": "admin"
+}
